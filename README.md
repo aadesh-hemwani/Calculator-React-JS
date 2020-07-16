@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Demo
+https://aadesh-hemwani.github.io/Calculator-React-JS/
+
 
 ## Available Scripts
 
